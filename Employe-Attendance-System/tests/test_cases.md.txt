@@ -1,0 +1,14 @@
+Test 1: Admin Login
+Expected: Successful login
+
+Test 2: Employee Login
+Expected: Access granted
+
+Test 3: Mark Attendance
+Expected: Time recorded
+
+Test 4: Apply Leave
+Expected: Leave added
+
+Test 5: Admin Approves Leave
+Expected: Status updated
