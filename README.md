@@ -36,4 +36,4 @@ The Employee Attendance System is a software solution designed to manage employe
 
 ## 👨‍💻 Author
 
-Your Name
+Bilal Rizwan
