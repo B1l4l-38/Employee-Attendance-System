@@ -1,39 +1,44 @@
-# Employee Attendance System
+Employee Attendance System
+📌 Overview
 
-## 📌 Overview
+The Employee Attendance System is a Java-based console application designed to manage employee attendance, leave requests, and administrative operations efficiently. It provides role-based access for employees and administrators, ensuring structured and secure workforce management.
 
-The Employee Attendance System is a software solution designed to manage employee attendance, leave requests, and administrative operations efficiently. It provides role-based access for employees and administrators.
+🚀 Features
+User Authentication (Admin & Employee login)
+Attendance Tracking (Clock-in / Clock-out)
+Leave Management System (Apply, Approve/Reject)
+Employee Information Management
+Resignation Request Handling
+Admin Controls (Add, Update, Remove Employees)
+Attendance & Employee Reports
+In-memory Database Management using Java Collections
+🛠️ Tech Stack
+Language: Java
+Concepts Used: OOP, Data Structures (ArrayList, Stack), File Handling
+Database: In-memory (custom Database class using collections)
+⚙️ How to Run
+Clone the repository
+Open the project in any Java IDE (e.g., IntelliJ, Eclipse, VS Code)
+Navigate to the src folder
 
-## 🚀 Features
+Run:
 
-* User Registration & Login
-* Attendance Tracking (Clock-in / Clock-out)
-* Leave Management System
-* Employee Information Management
-* Resignation Request Handling
-* Admin Dashboard
-* Action History Tracking
-* Database Integration
+EmployeeAttendanceSystem.java
+Use the console menu to interact with the system
 
-## 🛠️ Tech Stack
+📊 System Modules
+User Management (Admin & Employee roles)
+Attendance Recording
+Leave & Resignation Handling
+Employee Data Management
+Reporting System
 
-* Frontend: (e.g., HTML, CSS, JavaScript / React)
-* Backend: (e.g., PHP / Node.js / Python)
-* Database: (e.g., MySQL / Firebase)
+📊 Future Improvements
+GUI-based interface (JavaFX / Web)
+Database integration (MySQL / Firebase)
+Biometric attendance system
+Web or mobile application version
 
-## ⚙️ Installation
-
-1. Clone the repository
-2. Install dependencies
-3. Setup database
-4. Run the project
-
-## 📊 Future Improvements
-
-* Biometric integration
-* Mobile app support
-* AI-based attendance analytics
-
-## 👨‍💻 Author
+👨‍💻 Author
 
 Bilal Rizwan
